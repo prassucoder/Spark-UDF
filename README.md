@@ -4,4 +4,4 @@ Spark is a unified analytics engine for large-scale data processing. It provides
 
 https://spark.apache.org/
 
-# An UDF built in scala using java RegEx functions and Spark dataframe API
+# An UDF built in scala using java RegEx functions and Spark dataframe API to fetch records from HIVE table which matches pattern.
